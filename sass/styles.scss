@@ -1,0 +1,41 @@
+//====================================
+// Compass imports
+//====================================
+@import "compass/reset";
+@import "compass/css3";
+@import "compass/css3/filter";
+
+//====================================
+// Base imports
+//====================================
+@import "base/fonts";
+@import "base/vars";
+@import "base/mixins";
+@import "base/functions";
+
+//====================================
+// Layout
+//====================================
+@import "layout/general";
+// @import "layout/header";
+// @import "layout/footer";
+
+//====================================
+// Seccions Landing
+//====================================
+// @import "components/...";
+
+//====================================
+// Others Seccions
+//====================================
+// @import "components/...";
+
+//====================================
+// Components Errors
+//====================================
+// @import "components/error";
+
+//====================================
+// Media Queries
+//====================================
+@import "layout/mediaqueries";
